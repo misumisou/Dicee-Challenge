@@ -3,3 +3,9 @@
 - HTML, CSS, JS 연습
 - 랜덤 주사위 게임
 - 깃허브 페이지 배포
+
+[배포 주소](https://misumisou.github.io/Dicee-Challenge/)
+
+```
+코드블럭
+```
